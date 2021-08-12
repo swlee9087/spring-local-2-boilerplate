@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      url: mongodb://localhost:27017/sample
+      host: localhost
+      port: 27017
+      database:
+#  datasource:
+#    driver-class-name:
+#    url:
+#    username:
+#    password:
